@@ -29,13 +29,10 @@ div {
 
 #header {
     width: 100%;
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
- 
-    
     height: 40px;
-    width: 100%;
-    z-index: 1;    
+    width: 100%;   
 }
 
 ul {
@@ -43,23 +40,27 @@ ul {
 }
 
 #main-content {
-    border: solid 2px white;
+   
     margin-top: 60px;
     float: right;
     width: 421px;
-    height: 750px;
-    background-color: grey;
-    opacity: 0.98;
+    opacity: 0.85;
+    margin-bottom: 60px;
+
+
 
 }
 
 .boxes {
+    
+    padding-top: 60px;
     padding-bottom: 60px;
-    color: green; 
-    opa   
+    color: white; 
+    font-weight: bold; 
+    font-size: 17px; 
+    opacity: 1; 
 }
 
-.
 
 
 
