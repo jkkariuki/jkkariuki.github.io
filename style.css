@@ -1,5 +1,5 @@
 html { 
-  background: url("http://www.naturepriceless.ch/wp-content/uploads/2015/08/africa-283868_1280.jpg") no-repeat center center ; 
+  background: url("http://www.naturepriceless.ch/wp-content/uploads/2015/08/africa-283868_1280.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
