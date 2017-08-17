@@ -1,4 +1,4 @@
-html { 
+body { 
   background: url("http://www.naturepriceless.ch/wp-content/uploads/2015/08/africa-283868_1280.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -6,60 +6,49 @@ html {
   background-size: cover;
 }
 
-
-
-
-
-a {
-    color: green;
-}
-h3 {
+#title-nav-container {
     text-align: center;
+    width: 600px;
+    height: 100px;
+
+    
+    position: absolute;
+    background-color: black;
+    
+    right: 0%;
+    font-size: 3em;
+    font-weight: bold;
+    color: #FDB813;
+
+
+}
+#name-tag {
+    
+    margin-top: 5px;
+    
+
+}    
+
+#main-nav{
+   margin-top: 50px;
+    font-weight: bold;
+    position: absolute;
+    top: 15%;
+    left: 20%;
+    font-size: .5em;
 }
 
-p {
-    text-align: center;
+.nav-links {
+    display:inline-block;
+    float: left;
+    padding: 5px;
 }
 
 
-div {
+
+
     
    
-}
-
-#header {
-    width: 100%;
-    font-size: 16px;
-    text-align: center;
-    height: 40px;
-    width: 100%;   
-}
-
-ul {
-    list-style-type: none;
-}
-
-#main-content {
-   
-    margin-top: 60px;
-    float: right;
-    width: 421px;
-    opacity: 0.85;
-    margin-bottom: 60px;
-
-
-
-}
-
-.boxes {
-    
-    padding-top: 60px;
-    padding-bottom: 60px;
-    color: white; 
-    font-weight: bold; 
-    font-size: 17px; 
-    opacity: 1; 
-}
 
 
 
